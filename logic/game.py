@@ -4,6 +4,7 @@ TODO:
     *finish stubbing out game base class logic
     *stub out getting and saving game states, create save data schema
     *method implementation
+    *add pytests
     *create a concrete instance of the game in a new python file
 """
 
